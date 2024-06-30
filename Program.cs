@@ -41,7 +41,7 @@ namespace EasternAutumnPrototype7
 
             public static void ReportScore()
             {
-                Console.Clear();
+                Console.WriteLine("");
                 Console.WriteLine("++++++++++Your Score++++++++++");
                 Console.WriteLine("Name: " + Name);
                 Console.WriteLine("Points: " + PointCount);
